@@ -1,0 +1,7 @@
+.sidebar::-webkit-scrollbar {
+    display: none
+}
+
+.content-area::-webkit-scrollbar {
+    display: none
+}
